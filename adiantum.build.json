@@ -1,0 +1,15 @@
+{ 
+    "version" : "1.0.0",
+    "creator" : "toronado100",
+    "packageName" : {
+        "server" : "@adm.services.server",
+        "shared" : "@adm.services.shared"
+    },
+    "entryPoint" : {
+        "server" : "svc/index.ts",
+        "shared" : "svc/index.ts"
+    },
+    "deps" : {
+        
+    }
+}

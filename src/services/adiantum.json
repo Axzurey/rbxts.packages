@@ -1,8 +1,0 @@
-{ 
-    "version" : "1.0.0",
-    "creator" : "toronado100",
-    "map" : {
-        "ReplicatedStorage" : "shared",
-        "ServerScriptService" : "server"
-    }
-}
